@@ -5,8 +5,8 @@ How it Works:
 The program allows the user to enter input which helps the user navigate the program and prompts the user to enter a specific amount of money to 'donate' which will then increment that value into a preestablished amount and then print out the total. 
 
 Tools and Software Used:
-WSL
-Ubtuntu 24.04.4 LTS
+WSL,
+Ubtuntu 24.04.4 LTS,
 NASM
 
 Installation Help (if needed):
